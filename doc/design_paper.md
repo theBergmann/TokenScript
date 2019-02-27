@@ -769,7 +769,7 @@ The other actions depend much on the utility properties of an asset, however, th
 Let's start with fungible tokens, as they are somewhat simpler. In the following screen mock-up, the actions are: "Pay anyone", "Request Payment", "Convert to USD".
 
 
-![Rendering of the sovereign token on a mobile phone. Notice the action buttons.](sovereign.png)
+![Rendering of the sovereign token on a mobile phone. Notice the action buttons.](sovereign.svg)
 
 [explains the attestations associated with this token.]
 
