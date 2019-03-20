@@ -231,20 +231,13 @@ By virtue of Tokenscript being a solution layer rather than base-layer technolog
 
 ## Address "Frictionless Market" needs
 
-Taking a closer look at "market", a market is not a noisy channel overloaded with information; more importantly, it is a place where delivery versus payment happens. With blockchain relying less on the middlemen, the host of the trades, our focus is turned into the tokens being traded, that is, *deliverables* and *payments*, and their role in the market.
+A market is a place where delivery versus payment happens. With blockchain this process relies less on the middlemen. We focus on the tokens being traded, both as *deliverables* and *payments*, and their role in the market.
 
-deliverables
-:    All sorts of things money can buy: assets, goods and services.
+*Deliverables* are all sorts of things money can buy: assets, goods and services. The *payment* happens in a currency-like token, which can be used as a medium of exchange. For this paper only programmable currencies are relevant, for example Ether or DAI.
 
-payment
-:    Ether, DAI, Sovereign. Anything currency-like. Only programmable currencies are relevant to this paper.
+The Market is where delivery versus payment happens. We understand *Market* as a broad concept, not a specific institution like a marketplace. A user who checks out on a website is accessing a market. She doesn't have to be in a marketplace (e.g. Amazon) to do so.
 
-market
-:    Market is where delivery versus payment happens. *Market* is a concept, not a marketplace. A user who checks out on a website is accessing a market. She doesn't have to be in a marketplace (e.g. Amazon) to do so.
-
-Tokenscript provides both *the deliverable* and *the payment* side tokens to "plug-in" to the *market*. 
-
-Such a framework is essential for tokens to be presented, indexed, transacted, traded, auctioned, combined... to work towards a frictionless market.
+Tokenscript provides both *the deliverable* and *the payment* side tokens to "plug-in" to the *market*. Such a framework is essential for tokens to be presented, indexed, transacted, traded, auctioned, combined and so on. It enables us to work towards a frictionless market.
 
 We will introduce Tokenscript through an example on each of the *deliverable* side and on *payment* side.
 
